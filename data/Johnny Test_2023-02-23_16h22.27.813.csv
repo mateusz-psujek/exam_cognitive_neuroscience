@@ -1,0 +1,3 @@
+id,gender,age,trial,trigger
+Johnny Test,Female,Boundless,1,sounds\yes.wav
+Johnny Test,Female,Boundless,2,sounds\crash.wav
